@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
 				A functional wrapper around the MultipeerConnectivity framework that handles the edge cases of
 				mesh-networks.
                    DESC
-  s.homepage     = "https://github.com/rchatham/PeerConnectivity"
+  s.homepage     = "https://github.com/NickTrienens/PeerConnectivity"
   s.license      = "MIT"
   s.author       = { "Reid Chatham" => "reid.chatham@gmail.com" }
 
